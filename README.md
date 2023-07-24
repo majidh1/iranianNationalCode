@@ -1,7 +1,6 @@
-# iranianNationalCode
-# تولید کد ملی رند
-# شماره ملی ایران
-## تولید کد ملی
+# iranianNationalCode - کد ملی ایران
 WebSIte: https://majidh1.github.io/iranianNationalCode/
-### شناسه ملی حقیقی
-### شماره ملی حقیقی رند
+
+<img style="max-width:100%" src="./sakhtare-codemeli.jpg">
+<br />
+<img style="max-width:100%" src="./algorithm-codemeli.jpeg">
